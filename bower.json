@@ -1,0 +1,21 @@
+{
+  "name": "superagent-demock",
+  "main": "superagent-demock.js",
+  "homepage": "https://github.com/demockjs/superagent-demock",
+  "authors": [
+    "Ates Goral <ates@magnetiq.com>"
+  ],
+  "description": "",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "superagent",
+    "demock",
+    "mock",
+    "http"
+  ],
+  "license": "MIT"
+}
